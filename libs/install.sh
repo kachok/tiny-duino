@@ -1,0 +1,1 @@
+cp -r ./Adafruit_CC3000_Library /Users/dkachaev/Documents/Arduino/libraries/
